@@ -24,5 +24,7 @@
     "http://jet-user.com/api/getgeneralapp/jett",
     "http://jet-console.info/api/getgeneralapp/jett"
   ],
-  "fallbackIpApiUrl": "http://net.tiger-user.com/json"
+  "fallbackIpApiUrl": "http://ip.tiger-user.com/json"
+  "fallbackIpApiUrl": "http://net.tiger-user.com/json",
+  "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917"
 }
