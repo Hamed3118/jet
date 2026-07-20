@@ -19,10 +19,10 @@
     "org.mozilla.firefox"
   ],
   "backendDomains": [
-    "http://jet-turn.com/api/getgeneralapp/jet",
-    "http://unic-backend.com/api/getgeneralapp/jet",
-    "http://jet-user.com/api/getgeneralapp/jet",
-    "http://jet-console.info/api/getgeneralapp/jet"
+    "http://jet-turn.com/api/getgeneralapp/jett",
+    "http://unic-backend.com/api/getgeneralapp/jett",
+    "http://jet-user.com/api/getgeneralapp/jett",
+    "http://jet-console.info/api/getgeneralapp/jett"
   ],
   "fallbackIpApiUrl": "http://net.tiger-user.com/json"
 }
