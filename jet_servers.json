@@ -1,6 +1,4 @@
 {
-  "version": 1,
-  "version": 2,
   "servers": [
     {
       "id": "01",
@@ -191,7 +189,6 @@
     },
     {
       "id": "02",
-      "country": "United States",
       "country": "Germany",
       "config": {
         "dns": {
@@ -379,7 +376,6 @@
     },
     {
       "id": "03",
-      "country": "England",
       "country": "Germany",
       "config": {
         "dns": {
@@ -754,7 +750,6 @@
     },
     {
       "id": "05",
-      "country": "Finland",
       "country": "France",
       "config": {
         "dns": {
@@ -942,7 +937,6 @@
     },
     {
       "id": "06",
-      "country": "Turkey",
       "country": "France",
       "config": {
         "dns": {
@@ -1130,7 +1124,6 @@
     },
     {
       "id": "07",
-      "country": "Iran",
       "country": "France",
       "config": {
         "dns": {
@@ -1318,7 +1311,6 @@
     },
     {
       "id": "08",
-      "country": "Netherlands",
       "country": "France",
       "config": {
         "dns": {
@@ -1506,7 +1498,6 @@
     },
     {
       "id": "09",
-      "country": "Japan",
       "country": "United States",
       "config": {
         "dns": {
