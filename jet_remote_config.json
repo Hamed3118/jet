@@ -1,12 +1,5 @@
 {
-  "countryCodes": [
-    "IR",
-    "BD",
-    "IN",
-    "MM",
-    "PK",
-    "FR"
-  ],
+  "countryCodes": ["IR", "BD", "IN", "MM", "PK", "FR"],
   "blockedPackageNames": [
     "org.telegram.messenger",
     "com.instagram.android",
@@ -27,5 +20,6 @@
   "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
   "serverListInterstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
   "serverListEnabled": false,
-  "timeToStopUiEnabled": false
+  "timeToStopUiEnabled": false,
+  "guideEnabled": false
 }
