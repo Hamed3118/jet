@@ -18,13 +18,14 @@
     "org.mozilla.firefox"
   ],
   "backendDomains": [
-    "http://jet-turn.com/api/getgeneralapp/jet",
-    "http://unic-backend.com/api/getgeneralapp/jet",
-    "http://jet-user.com/api/getgeneralapp/jet",
-    "http://jet-console.info/api/getgeneralapp/jet"
+    "http://jet-turn.com/api/getgeneralapp/test",
+    "http://unic-backend.com/api/getgeneralapp/test",
+    "http://jet-user.com/api/getgeneralapp/test",
+    "http://jet-console.info/api/getgeneralapp/test"
   ],
   "fallbackIpApiUrl": "http://net.tiger-user.com/json",
   "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
   "serverListInterstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-  "serverListEnabled": true
+  "serverListEnabled": false,
+  "timeToStopUiEnabled": false
 }
