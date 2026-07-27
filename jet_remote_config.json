@@ -23,6 +23,6 @@
   "serverListEnabled": true,
   "timeToStopUiEnabled": false,
   "guideEnabled": false,
-  "serverListInterstitialEnabled": true,
+  "serverListInterstitialEnabled": false,
 "serverListRewardedEnabled": false
 }
