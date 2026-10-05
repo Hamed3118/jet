@@ -21,7 +21,7 @@
   "serverListRewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
   "serverListInterstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
   "serverListEnabled": false,
-  "timeToStopUiEnabled": true,
+  "timeToStopUiEnabled": false,
   "guideEnabled": false,
   "serverListInterstitialEnabled": false,
 "serverListRewardedEnabled": true
