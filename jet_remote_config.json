@@ -11,6 +11,7 @@
     "org.mozilla.firefox"
   ],
   "backendDomains": [
+    "http://jet-yummy.com/api/getgeneralapp/jet",
     "http://jet-turn.com/api/getgeneralapp/jet",
     "http://unic-backend.com/api/getgeneralapp/jet",
     "http://jet-user.com/api/getgeneralapp/jet",
